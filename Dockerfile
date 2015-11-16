@@ -17,3 +17,5 @@ ADD . $HOME
 
 # Default command
 CMD ["rails", "server", "--binding", "0.0.0.0"]
+
+EXPOSE 3000

@@ -5,7 +5,7 @@
 
 * [x] Deploy to Cloud 66
 
-* [ ] Add Rails models to show persistance
+* [x] Add Rails models to show persistance
 
 * [ ] Run tests with CircleCI
 
